@@ -1,0 +1,17 @@
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Database.deps.json
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Database.runtimeconfig.json
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Database.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Database.pdb
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Models.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\bin\Debug\net6.0\dotNetAPI-SQLite.Models.pdb
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.csproj.AssemblyReference.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.AssemblyInfoInputs.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.AssemblyInfo.cs
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.csproj.CoreCompileInputs.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.csproj.CopyComplete
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\refint\dotNetAPI-SQLite.Database.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.pdb
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\dotNetAPI-SQLite.Database.genruntimeconfig.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Database\obj\Debug\net6.0\ref\dotNetAPI-SQLite.Database.dll

@@ -1,0 +1,12 @@
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\bin\Debug\net6.0\dotNetAPI-SQLite.Models.deps.json
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\bin\Debug\net6.0\dotNetAPI-SQLite.Models.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\bin\Debug\net6.0\dotNetAPI-SQLite.Models.pdb
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.csproj.AssemblyReference.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.AssemblyInfoInputs.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.AssemblyInfo.cs
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.csproj.CoreCompileInputs.cache
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\refint\dotNetAPI-SQLite.Models.dll
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\dotNetAPI-SQLite.Models.pdb
+C:\Users\rogue\Downloads\dotNetAPI-SQLite\dotNetAPI-SQLite.Models\obj\Debug\net6.0\ref\dotNetAPI-SQLite.Models.dll
