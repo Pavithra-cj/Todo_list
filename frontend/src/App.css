@@ -8,11 +8,12 @@
 }
 
 body {
-  background: #8758ff;
+  background: linear-gradient(to right, #041405, #8758ff);
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 
 .App {
   text-align: center;
@@ -90,5 +91,25 @@ h1 {
   cursor: pointer;
 }
 
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
 
  
