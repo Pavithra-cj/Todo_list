@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNetAPI-SQLite", "dotNetAPI-SQLite\dotNetAPI-SQLite.csproj", "{26E33B06-040C-4BB0-BC0B-93B6D2C09994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetAPI-SQLite.Database", "dotNetAPI-SQLite.Database\dotNetAPI-SQLite.Database.csproj", "{193F2437-F4D7-4852-AF4B-B04C74AB8422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetAPI-SQLite.Models", "dotNetAPI-SQLite.Models\dotNetAPI-SQLite.Models.csproj", "{A8CCCEE5-8E2A-4806-88E8-C4A64261BFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E33B06-040C-4BB0-BC0B-93B6D2C09994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E33B06-040C-4BB0-BC0B-93B6D2C09994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E33B06-040C-4BB0-BC0B-93B6D2C09994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E33B06-040C-4BB0-BC0B-93B6D2C09994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193F2437-F4D7-4852-AF4B-B04C74AB8422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193F2437-F4D7-4852-AF4B-B04C74AB8422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193F2437-F4D7-4852-AF4B-B04C74AB8422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193F2437-F4D7-4852-AF4B-B04C74AB8422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CCCEE5-8E2A-4806-88E8-C4A64261BFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CCCEE5-8E2A-4806-88E8-C4A64261BFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CCCEE5-8E2A-4806-88E8-C4A64261BFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CCCEE5-8E2A-4806-88E8-C4A64261BFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242A4140-C190-4BD3-84BC-D6BEC03A8894}
+	EndGlobalSection
+EndGlobal

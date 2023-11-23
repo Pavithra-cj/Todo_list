@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4xLRYWgfGc5zX+yvkFpNLB8Ht1BNm3FI3epVfvmOdHM=",
+  "Source": "dotNetAPI-SQLite",
+  "BasePath": "_content/dotNetAPI-SQLite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
