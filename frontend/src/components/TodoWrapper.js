@@ -1,26 +1,20 @@
 import React, { useState, useEffect } from "react";
-import { Todo } from "./Todo";
-import { TodoForm } from "./TodoForm";
 import { v4 as uuidv4 } from "uuid";
-import { EditTodoForm } from "./EditTodoForm";
+import TodoCardview from "./TodoCardview";
 
 export const TodoWrapper = () => {
   const [todos, setTodos] = useState([]);
   const [renderedTodos, setRenderedTodos] = useState([]);
 
   useEffect(() => {
-    // Simulate fetching todos from an API
     const fetchData = async () => {
-      // Mock API call or fetch from your service
       const mockTodos = [
         { id: uuidv4(), task: "Task 1", completed: false, isEditing: false },
         { id: uuidv4(), task: "Task 2", completed: false, isEditing: false },
-        // Add more mock todos as needed
       ];
 
-      // Introduce a delay between rendering each todo
       for (let i = 0; i < mockTodos.length; i++) {
-        await new Promise((resolve) => setTimeout(resolve, 500)); // Adjust the delay as needed
+        await new Promise((resolve) => setTimeout(resolve, 500));
         setRenderedTodos((prevRenderedTodos) => [...prevRenderedTodos, mockTodos[i]]);
       }
     };
@@ -64,21 +58,8 @@ export const TodoWrapper = () => {
   return (
     <div className='TodoWrapper'>
       <h1>Get Things Done !</h1>
-      <TodoForm addTodo={addTodo} />
-      {/* Display rendered todos */}
-      {renderedTodos.map((todo) =>
-        todo.isEditing ? (
-          <EditTodoForm key={todo.id} editTodo={editTask} task={todo} />
-        ) : (
-          <Todo
-            key={todo.id}
-            task={todo}
-            deleteTodo={deleteTodo}
-            editTodo={editTodo}
-            toggleComplete={toggleComplete}
-          />
-        )
-      )}
+      <button type="button" className="todo-btn">ADD TASK</button>
+      <TodoCardview todos={renderedTodos} />
     </div>
   );
 };

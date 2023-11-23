@@ -9,7 +9,6 @@ export const Todo = ({ task, deleteTodo, editTodo, toggleComplete }) => {
   const [renderedTodos, setRenderedTodos] = useState([]);
 
   useEffect(() => {
-    // Fetch todos when the component mounts
     console.log('started...........');
     TodoService.getTodos()
       .then((data) => setTodos(data))
@@ -17,12 +16,10 @@ export const Todo = ({ task, deleteTodo, editTodo, toggleComplete }) => {
   }, []);
 
   useEffect(() => {
-    // Set the initial current todo
     setRenderedTodos([todos[currentTodoIndex]]);
   }, [todos, currentTodoIndex]);
 
   const handleNextTodo = () => {
-    // Show the next todo
     const nextIndex = (currentTodoIndex + 1) % todos.length;
     setCurrentTodoIndex(nextIndex);
     setRenderedTodos([todos[nextIndex]]);
